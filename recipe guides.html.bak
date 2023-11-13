@@ -1,0 +1,1448 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Service and products offered (recipe guides)</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="footer.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<!--backgroundcolor for webpage-->
+<body style="background-color: pink;">
+
+
+<!-- nav -->
+<nav class="navbar navbar-expand-lg navbar-light bg-danger">
+
+    <div class="container-fluid">
+    <a class="navbar-brand" href="#">In A Box</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navColor01" aria-controls="navColor01" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navColor01">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="home.html">House
+            <span class="visually-hidden">(current)</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact.html">Contact</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="about.html">About</a>
+        </li>
+<li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Services and products offered</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">Recipe guides</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="other items.html">Other items</a>
+			
+		  </div>
+        </li>
+
+<li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Packaged offered</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="beginners.html">Beginners</a>
+            <a class="dropdown-item" href="everyday.html">Everyday</a>
+            <a class="dropdown-item" href="deluxe.html">Deluxe</a>
+          </div>
+        </li>
+      </ul>
+	  
+
+ </div>
+ </div>
+ </nav>
+ 
+ <!--nav2-->
+<nav class="navbar navbar-expand-sm navbar-light justify-content-center">
+<ul class="navbar-nav">
+<li class="nav-item">
+<a class="nav-link" href="recipe guides.html">Recipe guides</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="other items.html">Other items</a>
+</li>
+</nav>
+ 
+ <!--jumbotron-->
+ <div class="container">
+  <div class="jumbotron">
+  <div style="color:black; padding:30px;">
+    <p><h2>Let's make delicious meal!!!!</h2></p>
+  </div>
+  </div>
+</div>
+</div>
+ 
+  
+  
+  
+  
+<!--Card-->
+ <div class="container-fluid mt-3">
+</div>
+
+<div class="container">
+<div class="row">
+<div class="col-sm-4">
+<div class="card bg-danger text=black" style="width:auto">
+	<img class="card-img-top" src="img\chicken noodle soup.PNG" alt="Card image">
+	<div class="card-body">
+	<h4 class="card-title">Chicken noodle soup</h4>
+	<p class="card-text"><b>Nutrition facts</b><br>
+                            Sugars 0 grams, Protein 5.8g<br>
+						 <b>Allergies</b>: <br>Flour
+                            </p>
+	<!--<a href="AssignmentModal.html" class="btn btn-dark">View Recipe</a>-->
+	<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal">
+    View Recipe
+  </button>
+
+<!-- The Modal -->
+<div class="modal" id="myModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Chicken noodle soup</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+	  for 4 servings<br>
+
+-¼ cup olive oil(60 mL)<br>
+-1 large onion, chopped<br>
+-3 large carrots, sliced<br>
+-4 stalks celery, chopped<br>
+-kosher salt, to taste<br>
+-black pepper, to taste<br>
+-3 cloves garlic, chopped<br>
+-8 cups chicken broth(2 L)<br>
+-8 oz egg noodles(225 g)<br>
+-4 cups shredded chicken breast(500 g)<br>
+-½ cup fresh parsley(10 g), chopped<br>
+-parmesan cheese, shredded, to taste<br><br>
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+STEP 1: 
+<br>Heat the olive oil until shimmering over medium heat in a large soup pot.
+<br>
+STEP 2: 
+<br>Add the onion, carrots, celery, and 1 teaspoon each salt and pepper. 
+<br>
+STEP 3: 
+<br>Cooking, stirring frequently, until the vegetables are very soft, about 15 minutes.
+<br>
+STEP 4: 
+<br>Add the garlic and cook until fragrant, about 1 minute. 
+<br>
+STEP 5: 
+<br>Add the stock and bring to a boil.
+<br>
+STEP 6: 
+<br>MAKE AHEAD: Do not add the noodles or parsley. 
+<br>
+STEP 7: 
+<br>Cool and refrigerate the soup in an airtight container for four days, or in the freezer for up to two months. 
+<br>
+STEP 8: 
+<br>Reheat on the stove and add the noodles and parsley just before serving.
+<br>
+STEP 9: 
+<br>Add the noodles and cook 6 minutes, then add the chicken and cook about 2 minutes more, until the noodles are cooked through and the chicken is warmed through.
+<br>
+STEP 10: 
+<br>Season to taste with salt and pepper, then stir in the parsley.
+<br>
+STEP 11: 
+<br>Serve topped with Parmesan.
+<br>Enjoy!
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+</div>
+</div>
+</div>
+<br>
+
+<div class="col-sm-4">
+
+<div class="card bg-danger text=black" style="width:auto">
+<img class="card-img-top" src="img\All-American Cheeseburger.PNG" alt="Card image">
+<div class="card-body">
+<h4 class="card-title">All-American Cheeseburger</h4>
+<p class="card-text"><b>Nutrition facts</b><br>
+                            82% Total Fat 53g, 110% Saturated Fat 22g<br>
+						 <b>Allergies:</b><br>
+                            Cheese</p>
+<!--<a href="#" class="btn btn-dark">View Recipe</a>-->
+<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal1">
+    View Recipe
+  </button>
+
+  <!-- The Modal -->
+<div class="modal" id="myModal1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">All-American Cheeseburger</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+-2 pounds freshly ground chuck, (at least 80% lean, a.k.a. 80/20)<br>
+-1 tablespoon onion powder<br>
+-1 teaspoon salt<br>
+-1 teaspoon freshly ground black pepper<br>
+-12 slices deli-counter American cheese<br>
+-6 large burger buns, preferably homemade, toasted if desired<br>
+<br>
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+STEP 1: 
+<br>In a large bowl, mix ground beef, onion powder, salt and pepper until just combined. Do not overmix, or your patties will be tough.
+<br>
+STEP 2: 
+<br>Divide into six portions and form patties, without pressing too hard. They should be uniform in thickness. Smooth out any cracks using your fingers. Make these right before you grill them, so they stay at room temperature.
+<br>
+STEP 3: 
+<br>Preheat your grill, grill pan or cast-iron skillet to high heat and add burger patties. If using a grill, cover with the lid.
+<br>
+STEP 4: 
+<br>Cook until the crust that forms on the bottom of the burger releases it from the pan or grate — about 2 minutes. Gently test, but don't flip it until it gets to this point. When burgers lift up easily, flip, add two slices of cheese to each, close lid if using a grill, and cook on the other side for another 2-3 minutes for medium to medium rare.
+<br>
+STEP 5: 
+<br>Remove burgers with a sturdy metal spatula and transfer to a plate. Allow to rest for several minutes, then transfer to buns.
+<br>
+STEP 6: 
+<br>Garnish as desired and serve immediately.
+<br>Enjoy!
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+</div>
+</div>
+</div>
+<br>
+
+<div class="col-sm-4">
+
+<div class="card bg-danger text=black" style="width:auto">
+<img class="card-img-top" src="img\classic chicken salad.PNG" alt="Card image">
+<div class="card-body">
+<h4 class="card-title">Classic Chicken Salad</h4>
+<p class="card-text"><b>Nutrition facts</b><br>
+                     1% Total Carbohydrates 2g, 8% Dietary Fiber 2g.<br>
+						 <b>Allergies:</b><br>
+                            Chicken powder</p>
+<!--<a href="#" class="btn btn-dark">View Recipe</a>-->
+<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal2">
+    View Recipe
+  </button>
+
+  <!-- The Modal -->
+<div class="modal" id="myModal2">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Classic Chicken Salad</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+	  <span style="color:black;font-weight:bold">For the salad:</span><br>
+-1 pound raw boneless, skinless chicken breasts, cut into 2 1/2-inch chunks (or 2 to 3 cups cooked chicken meat)<br>
+-2 ribs celery, chopped<br>
+-1/2 red bell pepper, seeded and chopped<br>
+-4 to 6 green olives, pitted and minced<br>
+-1/4 cup chopped red onion<br>
+-1/2 to 1 apple, cored and chopped<br>
+-1/3 head iceberg lettuce, sliced and chopped<br>
+<br>
+<span style="color:black;font-weight:bold">For the dressing:</span><br>
+-5 tablespoons mayonnaise<br>
+-1 tablespoon plum preserves, or any sweet berry preserve (or a lesser amount of honey)<br>
+-2 teaspoons freshly squeezed lemon juice<br>
+-Salt and pepper to taste<br>
+<br>
+
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+STEP 1: 
+<br>Poach the chicken (skip if using already cooked chicken)
+<br>
+STEP 2: 
+<br>Bring a pot with 2 quarts of well salted water (1 tablespoon salt) to a boil. Add the chicken breast (cut into large chunks) and return the water to a simmer. Then turn off the heat, and cover the pot. Let the chicken sit for 15 minutes (time it) or more while you prepare everything else.
+<br>
+STEP 3: 
+<br>Prepare the chicken salad dressing in a large bowl. Mix together the mayonnaise, preserves, and lemon juice. Taste for the proper balance of sweetness and acidity. The salad dressing should not be too sweet, nor too sour.
+<br>
+STEP 4: 
+<br>Add more preserves or lemon juice until you have reached the balance you want. Add salt and pepper to taste.
+<br>
+STEP 5: 
+<br>Mix in the chopped celery, bell pepper, olives, red onion, and apple
+<br>
+STEP 6: 
+<br>Dice the chicken, mix with dressing and vegetables:
+<br>
+STEP 7: 
+<br>Remove the chicken from the poaching water and dice it. (Or dice already cooked chicken if that is what you are using for this salad.) Mix it in with the dressing and vegetables.
+<br>
+STEP 8: 
+<br>Add lettuce:
+<br>
+STEP 9: 
+<br>At this point you can make ahead. When ready to serve, fold in the sliced and chopped iceberg lettuce.
+<br>Enjoy!
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<br>
+
+<!--card-->
+ <div class="container-fluid mt-3">
+</div>
+
+
+<div class="container">
+<div class="row">
+<div class="col-sm-4">
+<div class="card bg-danger text=black" style="width:auto">
+	<img class="card-img-top" src="img\Frutti di Mare Seafood Salad.PNG" alt="Card image">
+	<div class="card-body">
+	<h4 class="card-title">Frutti di Mare Seafood Salad</h4>
+	<p class="card-text"><b>Nutrition facts</b><br>
+                            318 CALORIES, 11g FAT<br>
+						 <b>Allergies</b><br>
+                            Seafood</p>
+	<!--<a href="#" class="btn btn-dark">View Recipe</a>-->
+	<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal3">
+    View Recipe
+  </button>
+
+  <!-- The Modal -->
+<div class="modal" id="myModal3">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Frutti di Mare Seafood Salad</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+	  <span style="color:black;font-weight:bold">Poaching Broth:</span><br>
+-4 cups water<br>
+-1 cup white wine or chicken stock<br>
+-2 teaspoons salt<br>
+-2 to 3 bay leaves<br>
+-1 teaspoon cracked black pepper<br>
+-1 small onion, roughly chopped<br>
+<br>
+<span style="color:black;font-weight:bold">Salad:</span><br>
+-2 celery stalks<br>
+-1 large yellow or orange bell pepper<br>
+-1 pound tomatoes<br>
+-1/2 cup chives<br>
+-1 pound small cocktail shrimp<br>
+-1 pound small clams in shell<br>
+-1/2 pound bay scallops<br>
+-1/2 pound calamari, cut into rings<br>
+-1/4 cup high-quality extra virgin olive oil, or more to taste<br>
+-Juice of 1 to 2 lemons<br>
+-Salt and black pepper to taste<br>
+<br>
+
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+STEP 1: 
+<br>Make poaching broth:<br>
+Put all the poaching broth ingredients together in a medium pot, cover and bring to a boil. Turn off the heat to let the flavors steep while you cut the veggies.
+<br>
+STEP 2: 
+<br>Prep salad vegetables:<br>
+While the poaching broth is steeping, dice the yellow pepper, seed and dice the tomatoes and slice the celery stalks very thin. Chop the chives. Juice the lemons and remove any seeds. Put the diced peppers, tomatoes and celery into very large bowl. Most cocktail shrimp are pre-cleaned and cooked, so you you can put them in the bowl, too.
+<br>
+STEP 3: 
+<br>Poach the clams:<br>
+Bring the poaching broth back to a boil and add all the clams. Boil 3-4 minutes, or until the clams all open up. As soon as you see each clam open, fish it out and set it aside. Remove the meat and put in the bowl with the veggies.
+<br>
+STEP 4: 
+<br>Poach the scallops:<br>
+Turn off the heat and put the scallops in the poaching water. Cover the pot and let stand for 3-4 minutes. Fish out the scallops and put into the bowl.
+<br>
+STEP 5: 
+<br>Poach the calamari rings:<br>
+Bring the broth to a boil once more. Add the calamari rings and boil 30 seconds to 1 minute, then pour the contents of the pot into a strainer set over a bowl. You can save the broth or discard it. Pick out all the calamari rings and add to the bowl.
+<br>
+STEP 6: 
+<br>Dress the salad:<br>
+To finish, add the olive oil and a little salt and half the lemon juice. Mix well and taste. Add more olive oil, lemon and salt until you get the flavors you want: The salad should be glistening with oil, briny and tart with lemon. Finally, mix in the chives and chill. This salad is better a few hours after it's made.
+<br>Enjoy!
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+	
+	
+	</div>
+</div>
+</div>
+<br>
+
+
+<div class="col-sm-4">
+
+<div class="card bg-danger text=black" style="width:auto">
+<img class="card-img-top" src="img\Fresh Salmon salad.PNG" alt="Card image">
+<div class="card-body">
+<h4 class="card-title">Fresh Salmon salad</h4>
+<p class="card-text"><b>Nutrition facts</b><br>
+                       285 CALORIES, 19g FAT<br>
+						 <b>Allergies</b><br>
+                            Salmon</p>
+<!--<a href="#" class="btn btn-dark">View Recipe</a>-->
+<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal4">
+    View Recipe
+  </button>
+
+  <!-- The Modal -->
+<div class="modal" id="myModal4">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Fresh Salmon salad</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+	  <span style="color:black;font-weight:bold">For the salmon:</span><br>
+-1 pound salmon fillet, cut in half<br>
+-1/2 teaspoon sea salt (for the rub)<br>
+-4 cups water<br>
+-1 1/2 teaspoons sea salt (for the poaching liquid)<br>
+-1 slice lemon<br>
+-1 teaspoon lemon juice<br>
+-1 teaspoon extra virgin olive oil<br>
+<br>
+<span style="color:black;font-weight:bold">For the salad:
+</span><br>
+-2 stalks celery, finely chopped<br>
+-1/2 red onion, peeled, finely sliced<br>
+-1 tablespoon capers (strain out the pickling juice)<br>
+-1 teaspoon lemon zest<br>
+-3 tablespoons lemon juice<br>
+-1 tablespoon extra virgin olive oil<br>
+-2 tablespoons fresh dill, chopped<br>
+-1/8 teaspoon freshly ground black pepper<br>
+<br>
+
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+STEP 1: 
+<br>Prep the salmon fillets:<br>
+Rub the salmon fillets all over with 1/2 teaspoon salt. Chill for 30 minutes in the refrigerator while you prep the other ingredients.
+<br>
+STEP 2: 
+<br>Make the dressing:<br>
+Combine celery, red onion, capers, lemon zest and juice, dill, olive oil, black pepper in a large bowl. Set aside for the flavors to blend.
+<br>
+STEP 3: 
+<br>Poach the salmon:<br>
+Put 4 cups water, 1 1/2 teaspoons salt, and a slice of lemon in a pot wide enough to hold the salmon. Bring to a boil and simmer for about 5 minutes. Add the salmon to the pot. Return to a simmer and cook for 4 minutes at a bare simmer.
+<br>
+STEP 4: 
+<br>Cool and break up the salmon:<br>
+When the salmon is just cooked through, remove it from poaching liquid and put it in a bowl. Drizzle with a teaspoon of olive oil and a teaspoon of lemon juice. Once it has cooled to touch, break the salmon gently into chunks.
+<br>
+STEP 5: 
+<br>Make the salad:<br>
+Add the salmon to the bowl with the celery, onions, and capers. Gently toss to combine. Serve as is, or over mixed greens or butter lettuce.
+<br>Enjoy!
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+</div>
+</div>
+</div>
+<br>
+
+<div class="col-sm-4">
+
+<div class="card bg-danger text=black" style="width:auto">
+<img class="card-img-top" src="img\Honey Mustard Baked Salmon.PNG" alt="Card image">
+<div class="card-body">
+<h4 class="card-title">Honey Mustard Baked Salmon</h4>
+<p class="card-text"><b>Nutrition facts</b><br>
+                        609 CALORIES, 43g FAT<br>
+						 <b>Allergies</b><br>
+                            Salmon</p>
+<!--<a href="#" class="btn btn-dark">View Recipe</a>-->
+<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal5">
+    View Recipe
+  </button>
+
+  <!-- The Modal -->
+<div class="modal" id="myModal5">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Honey Mustard Baked Salmon</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+-1 1/2 to 2 pounds (680g to 900g) salmon fillets<br>
+-3 tablespoons honey mustard (1 1/2 tablespoons honey plus 1 1/2 tablespoon Dijon mustard)<br>
+-3 cloves garlic, minced (about 3 teaspoons)<br>
+-3 tablespoons extra virgin olive oil (divided into 2 tablespoons and 1 tablespoon)<br>
+-1 tablespoon lemon juice<br>
+-1 tablespoon chopped fresh dill<br>
+-Pinch salt<br>
+<br>
+
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+STEP 1: 
+<br>Preheat the oven to 400°F<br>
+STEP 2: 
+<br>Make the honey-mustard glaze:<br>
+In a small bowl, whisk together the honey mustard, garlic, 2 tablespoons of the olive oil, lemon juice, dill, and salt.
+<br>
+STEP 3: 
+<br>Prep the salmon:<br>
+Line a roasting pan with aluminum foil. Brush the salmon fillets on both sides with olive oil. Place fillets skin-side down (if your fillets have skin-on) on the foil-lined pan. Use a basting brush to coat the top side of the fillets with the honey mustard mixture.
+<br>
+STEP 4: 
+<br>Bake the salmon:<br>
+Place in oven and bake at 400°F for 8 to 10 minutes, until just barely cooked through (please don't overcook salmon!). It's okay if the salmon is still a little rare in the center, when you remove it from the oven, the residual heat will cook it through.
+<br>Enjoy!
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<br>
+
+<!--card-->
+ <div class="container-fluid mt-3">
+</div>
+
+
+<div class="container">
+<div class="row">
+<div class="col-sm-4">
+<div class="card bg-danger text=black" style="width:auto">
+	<img class="card-img-top" src="img\strawberry pancake.PNG" alt="Card image">
+	<div class="card-body">
+	<h4 class="card-title">Strawberry Pancake</h4>
+	<p class="card-text"><b>Nutrition facts</b><br>
+                        8% Sodium 201mg, 2% Potassium 72mg.<br>
+						 <b>Allergies</b><br>
+                            Flour</p>
+	<!--<a href="#" class="btn btn-dark">View Recipe</a>-->
+<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal6">
+    View Recipe
+  </button>
+
+  <!-- The Modal -->
+<div class="modal" id="myModal6">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Strawberry Pancake</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+-Strawberry<br>
+-flour<br> 
+-baking powder<br> 
+-egg<br> 
+-milk<br> 
+-vanilla essence<br> 
+-a little sugar<br>
+-salt<br>
+<br>
+
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+	  <span style="color:black;font-weight:bold">Step by Step:</span><br>
+STEP 1: 
+<br>Make the batter<br>
+STEP 2: 
+<br>Whisk together the dry ingredients.<br>
+STEP 3: 
+<br>Melt the butter, (I do this in a microwave-proof jug, that’s large enough to hold all the wet ingredients, which means fewer dishes!)<br>
+STEP 4: 
+<br>Whisk together the wet ingredients (melted butter, egg, vanilla, milk).<br>
+STEP 5: 
+<br>Add the wet ingredients to the dry ingredients, whisk them until well combined. There may be a few lumps, don’t worry about these.<br>
+STEP 6: 
+<br>Leave the batter to rest for 10 mins<br>
+STEP 7: 
+<br>While the batter is resting, dice the strawberries into 1cm cubes (make sure you remove the leaves lol.)<br>
+STEP 8: 
+<br>Fold the diced strawberries into the pancake batter.<br>
+STEP 9: 
+<br>Cook the strawberry pancakes<br>
+STEP 10: 
+<br>Heat a pan to medium heat, make sure it has a nice flat base, this is crucial for making great pancakes.<br>
+STEP 11: 
+<br>Add a little butter or oil to the surface of the pan, I actually do this with a pastry brush, so that the pan has a nice thin covering of the butter or oil.<br>
+STEP 12: 
+<br>Scoop one-quarter cup of the batter and pour it onto the heated pan. Your pancake won’t be perfectly round, the lumps of strawberry means you will get imperfect circles, but they will still taste great! I find you can fit around 4 pancakes into a pan, but obviously, that will depend on the size of your pan
+Watch for small bubbles to appear on the surface of the pancake and burst, when you see them, it’s time to flip the pancake.<br>
+STEP 13: 
+<br>The second side of the pancake won’t take long to cook, if you watch the edges of the pancake you will be able to see bubbles appearing and you will be able to see when the centre of the pancake is cooked.<br>
+<br>
+	  <span style="color:black;font-weight:bold">Top Tips:</span><br>
+STEP 1: 
+<br>Here is how you can make these fluffy strawberry pancakes perfectly every time!<br>
+STEP 2: 
+<br>Make sure your baking powder hasn’t expired. Baking powder definitely has a shelf life, if your pancakes aren’t light and fluffy it may be that your baking powder needs to be replaced.<br>
+STEP 3: 
+<br>Don’t skip the resting time for the batter, your pancakes will be better and fluffier for it.<br>
+STEP 4: 
+<br>This pancake recipe will work just fine with other flavours, try subbing the pieces of strawberry for other diced fruit.<br>
+<br>
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>	
+	
+	
+	</div>
+</div>
+</div>
+<br>
+
+
+<div class="col-sm-4">
+
+<div class="card bg-danger text=black" style="width:auto">
+<img class="card-img-top" src="img\Batter-Fried Chicken.PNG" alt="Card image">
+<div class="card-body">
+<h4 class="card-title">Butter-Fried Chicken</h4>
+<p class="card-text"><b>Nutrition facts</b><br>
+                        10% Sodium 251mg, 17% Potassium 610mg.<br>
+						 <b>Allergies</b><br>
+                            Butter</p>
+<!--<a href="#" class="btn btn-dark">View Recipe</a>-->
+<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal7">
+    View Recipe
+  </button>
+
+  <!-- The Modal -->
+<div class="modal" id="myModal7">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Batter-Fried Chicken</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+	  <span style="color:black;font-weight:bold">For the Brine:</span><br>
+-1/3 cup (50g) Diamond Crystal kosher salt; if using table salt use half as much by volume or same weight<br>
+-3 tablespoons (40g) sugar<br>
+-2 quarts (1.9L) water<br>
+-3 1/2 pounds (1.6kg) skin-on, bone-in chicken pieces (split breasts cut in half, drumsticks, and/or thighs)<br>
+<br>
+
+      <span style="color:black;font-weight:bold">For the Batter:</span><br>
+-3/4 cup (145g) potato starch<br>
+-1 cup (5 ounces, 140g) all-purpose flour, such as Gold Medal Blue or Brown Label<br>
+-1 tablespoon freshly ground black pepper<br>
+-2 teaspoons (6g) baking powder<br>
+-1 teaspoon (3g) Diamond Crystal kosher salt; for table salt use half as much by volume or the same weight<br>
+-1 teaspoon sweet paprika<br>
+-1/2 teaspoon cayenne pepper<br>
+-1 3/4 cup (420ml) water<br>
+-2 quarts (1.9L) vegetable oil, for frying<br>
+<br>
+
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+	  <span style="color:black;font-weight:bold">Step by Step:</span><br>
+STEP 1: 
+<br>For the Brine:<br>
+In a large bowl or container large enough to hold all the chicken, whisk salt and sugar in the water until salt and sugar are dissolved. Add chicken, cover, and refrigerate for at least 2 hours and up to 4 hours. Drain chicken and pat dry with paper towels.<br>
+STEP 2: 
+<br>To Batter and Fry:<br>
+Adjust oven rack to middle position and preheat oven to 200°F (95°C). In a large Dutch oven or wok, heat oil over medium-high heat to 375°F (190°C). In a large bowl, thoroughly whisk together potato starch, all-purpose flour, black pepper, baking powder, salt, paprika, and cayenne, about 30 seconds. Whisk in the water until a smooth batter forms, about 30 seconds.<br>
+STEP 3: 
+<br>Set a wire rack in a second rimmed baking sheet. Add half of chicken to batter and toss until well coated. Working with one piece at a time, lift chicken from batter, allowing any excess batter to drip back into bowl, and carefully add to hot oil, lowering it gently from as close to the oil’s surface as possible to minimize splashing; repeat with remaining battered pieces of chicken. Fry chicken, turning occasionally, until thickest part of breast pieces registers 155°F (68°C) and drumsticks/thighs registers 165°F (74°C) on an instant-read thermometer, 8 to 12 minutes for breast pieces and 10 to 14 minutes for thighs and drumsticks; adjust burner as necessary to maintain oil temperature between 325°F (160°C) and 350°F (175°C). Transfer chicken to prepared wire rack, season with salt, and place in oven to keep warm. Return oil to 350°F (177°C) and repeat battering and frying with remaining chicken. Serve.<br>
+<br>
+     <span style="color:black;font-weight:bold">Notes:</span><br>
+-Be sure to use unmodified potato starch such as Bob’s Red Mill Premium Quality Unmodified Potato Starch. Using modified potato starch may produce slightly different results in texture and appearance.<br>
+-Special Equipment<br>
+-Large Dutch oven or wok.<br>    
+	  </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>	
+
+
+</div>
+</div>
+</div>
+<br>
+
+<div class="col-sm-4">
+
+<div class="card bg-danger text=black" style="width:auto">
+<img class="card-img-top" src="img\Steak sarnie with onions and blue cheese.PNG" alt="Card image">
+<div class="card-body">
+<h4 class="card-title">Steak sarnie with onions and blue cheese</h4>
+<p class="card-text"><b>Nutrition facts</b><br>
+                        FAT 46.2G (16.7G SATURATED), PROTEIN 49.4G<br>
+						 <b>Allergies</b>:
+                            Cheese</p>
+<!--<a href="#" class="btn btn-dark">View Recipe</a>-->
+<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal8">
+    View Recipe
+  </button>
+
+  <!-- The Modal -->
+<div class="modal" id="myModal8">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Steak sarnie with onions and blue cheese</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+-1 British bavette, rump or sirloin steak (about 150g)<br>
+-Vegetable oil for brushing<br>
+-Knob of unsalted butter<br>
+-1 small red onion, sliced<br>
+-2 thyme sprigs<br>
+-1 tbsp red wine vinegar or balsamic vinegar<br>
+-1 tbsp dark brown sugar<br>
+-1 tbsp good quality mayonnaise<br>
+-½ tbsp dijon/wholegrain mustard<br>
+-½ tsp runny honey<br>
+-2 slices bread, toasted<br>
+-Handful leafy greens<br>
+-20-30g stilton/blue cheese<br>
+<br>
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+STEP 1: 
+<br>Set a heavy-based frying pan over a high heat. Pat the steak dry with kitchen paper, then brush with a little oil and season with a pinch of salt. Cook the steak for 3-4 minutes on each side for medium (or less/more until cooked to your liking), then leave to rest in a warm place.
+<br>
+STEP 2: 
+<br>Add a splash of water to the pan, then scrape the bottom with a wooden spoon to lift any charred goodness (see Know-how). Turn the heat down to low medium, add the butter and, once melted, stir in the onion, thyme and a little salt. Cook, stirring regularly, for 10-15 minutes until softened and beginning to colour. Stir in the vinegar and sugar, then cook for 5 minutes more until reduced and sticky.
+<br>
+STEP 3: 
+<br>Meanwhile, mix the mayo, mustard and honey in a small bowl. Slice the rested steak into strips. Spread the toast with the mustard mayo, then top one slice with the leaves, steak and onions (discard the thyme). Crumble over the cheese, then top with the other slice and serve.
+<br>Enjoy!
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<br>
+
+<!--card-->
+ <div class="container-fluid mt-3">
+</div>
+
+
+<div class="container">
+<div class="row">
+<div class="col-sm-4">
+<div class="card bg-danger text=black" style="width:auto">
+	<img class="card-img-top" src="img\Air Fryer Fried Shrimp.PNG" alt="Card image">
+	<div class="card-body">
+	<h4 class="card-title">Air Fryer Fried Shrimp</h4>
+	<p class="card-text"><b>Nutrition facts</b><br>
+                            Protein 28g, Potassium 350mg.<br>
+						 <b>Allergies</b><br>
+                            Shrimp</p>
+	<!--<a href="#" class="btn btn-dark">View Recipe</a>-->
+	<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal9">
+    View Recipe
+  </button>
+
+  <!-- The Modal -->
+<div class="modal" id="myModal9">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Air Fryer Fried Shrimp</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+	  <span style="color:black;font-weight:bold">Fried Shrimp:</span><br>
+-Nonstick cooking spray<br>
+-1 pound large shrimp (16/20 count), peeled and deveined, tails on <br>
+-Kosher salt and freshly ground black pepper <br>
+-1/2 cup all-purpose flour <br>
+-2 large eggs <br>
+-1 cup panko breadcrumbs<br>
+<br>
+      <span style="color:black;font-weight:bold">Spicy Remoulade Sauce:</span><br>
+	  -1/2 cup mayonnaise<br>
+-2 tablespoons chopped pickled jalapenos<br> 
+-2 tablespoons whole grain mustard <br>
+-1 tablespoon ketchup<br> 
+-1 tablespoon hot sauce <br>
+-1 scallion, thinly sliced<br> 
+<br>
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+STEP 1: 
+<br>For the fried shrimp: Spray the basket of a 3.5-quart air fryer with cooking spray and set aside. Pat the shrimp dry between a couple paper towels, then season with a pinch of salt and a few grinds of black pepper.
+<br>
+STEP 2: 
+<br>Whisk the flour with 3/4 teaspoon salt and few grinds of pepper in a shallow bowl or baking dish. Whisk the eggs with a pinch of salt in another shallow bowl. Add the panko to a third shallow bowl. Dip a shrimp in the seasoned flour, shaking off any excess, then dip in the beaten eggs. Dredge in the panko, turning until evenly coated. Transfer to a large plate or a rimmed baking sheet and repeat with the remaining shrimp. 
+<br>
+STEP 3: 
+<br>Preheat the air fryer to 385 degrees F. Working in batches, place some of the shrimp in a single layer in the fryer basket, then spray lightly with more cooking spray. Cook until the shrimp are golden brown and cooked through, flipping halfway through, about 10 minutes.  
+STEP 4:
+<br>For the spicy remoulade sauce: Meanwhile, stir together the mayonnaise, pickled jalapenos, mustard, ketchup, hot sauce and scallion in a small bowl until smooth. Serve with the fried shrimp for dipping.
+<br>Enjoy!<br><br>
+      <span style="color:black;font-weight:bold">Cook’s Note:</span><br>
+	  You may need to fry the shrimp in 2 to 3 batches, depending on the size of your air-fryer basket.<br>
+	  <br>
+	  <span style="color:black;font-weight:bold">Special equipment:</span><br>
+	  a 3.5-quart air fryer
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+	
+	
+	</div>
+</div>
+</div>
+<br>
+
+
+<div class="col-sm-4">
+
+<div class="card bg-danger text=black" style="width:auto">
+<img class="card-img-top" src="img\Keto Chicken Parmesan.PNG" alt="Card image">
+<div class="card-body">
+<h4 class="card-title">Keto Chicken Parmesan</h4>
+<p class="card-text"><b>Nutrition facts</b><br>
+                            Calories: 214.7, Total Fat: 7.6 g<br>
+						 <b>Allergies</b><br>
+                            Flour</p>
+<!--<a href="#" class="btn btn-dark">View Recipe</a>-->
+<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal10">
+    View Recipe
+  </button>
+
+<!-- The Modal -->
+<div class="modal" id="myModal10">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Keto Chicken Parmesan</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+	  
+
+-4 boneless skinless chicken breasts<br>
+-Kosher salt<br>
+-Freshly ground black pepper<br>
+-1 c. almond flour<br>
+-3 large eggs, beaten<br>
+-3 c. freshly grated Parmesan, plus more for serving<br>
+-2 tsp. garlic powder<br>
+-1 tsp. onion powder<br> 
+-2 tsp. dried oregano<br>
+-Vegetable oil<br>
+-3/4 c. low-carb sugar-free tomato sauce<br>
+-1 1/2 c. shredded mozzarella<br>
+-Fresh basil leaves, for topping<br><br>
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+STEP 1: 
+<br>Preheat oven to 400°. Using a sharp knife, cut chicken breasts in half crosswise. Season chicken on both sides with salt and pepper. 
+<br>
+STEP 2: 
+<br>Place eggs and almond flour in 2 separate shallow bowls. In a third shallow bowl, combine Parmesan, garlic powder, onion powder, and oregano. Season with salt and pepper.
+<br>
+STEP 3: 
+<br>Working with one at a time, dip chicken cutlets into almond flour, then eggs, and then Parmesan mixture, pressing to coat. 
+<br>
+STEP 4: 
+<br>In a large skillet over medium heat, heat 2 tablespoons oil. Add chicken and cook until golden and cooked through, 2 to 3 minutes per side.
+<br>
+STEP 5: 
+<br>Transfer fried cutlets to a 9"-x-13" baking dish, evenly spread tomato sauce on each cutlet and top with mozzarella. 
+<br>
+STEP 6: 
+<br>Bake until cheese is melty, 10 to 12 minutes. If desired, broil until cheese is golden, 3 minutes.
+<br>
+STEP 7: 
+<br>Top with basil and more Parmesan before serving.
+<br>Enjoy!
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+</div>
+</div>
+</div>
+<br>
+
+<div class="col-sm-4">
+
+<div class="card bg-danger text=black" style="width:auto">
+<img class="card-img-top" src="img\Keto Cheesecake.PNG" alt="Card image">
+<div class="card-body">
+<h4 class="card-title">Keto Cheesecake</h4>
+<p class="card-text"><b>Nutrition facts</b><br>
+                            Calories: 214.7, Total Fat: 7.6 g<br>
+						 <b>Allergies</b><br>
+                            Cheese</p>
+<!--<a href="#" class="btn btn-dark">View Recipe</a>-->
+<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal11">
+    View Recipe
+  </button>
+
+<!-- The Modal -->
+<div class="modal" id="myModal11">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Keto Cheesecake</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+
+-1/2 c. almond flour<br>
+-1/2 c. coconut flour<br>
+-1/4 c. shredded coconut<br>
+-1/2 c. (1 stick) butter, melted<br>
+-3 (8-oz.) blocks cream cheese, softened to room temperature<br>
+-16 oz. sour cream, at room temperature<br>
+-1 tbsp. stevia<br>
+-2 tsp. pure vanilla extract<br>
+-3 large eggs, at room temperature<br>
+-Sliced strawberries, for serving<br><br>
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+STEP 1: 
+<br>Preheat oven to 300°. Make the crust: Grease an 8" or 9" springform pan, and cover the bottom and edges with foil. In a medium bowl, mix together the flours, coconut, and butter. Press the crust into the bottom and a little up the sides of the prepared pan. Place the pan in the fridge while you make the filling. 
+<br>
+STEP 2: 
+<br>Make the filling: In a large bowl, beat the cream cheese and sour cream together, then beat in the stevia and vanilla. Add the eggs one at a time, mixing after each addition. Spread the filling evenly over the crust.
+<br>
+STEP 3: 
+<br>Place cheesecake in a deep roasting pan and set on middle rack of oven. Carefully pour enough boiling water into roasting pan to come halfway up sides of springform pan. Bake for 1 hour to 1 hour 20 minutes, until it only slightly jiggles in the center. Turn oven off, but leave the cake in the oven with the door slightly ajar to cool slowly for an hour.
+<br>
+STEP 4: 
+<br>Remove pan from water bath and take off foil, then let chill in the fridge for at least five hours or overnight. Slice and garnish with strawberries.
+<br>Enjoy!
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<br>
+
+<!--card-->
+ <div class="container-fluid mt-3">
+</div>
+
+
+<div class="container">
+<div class="row">
+<div class="col-sm-4">
+<div class="card bg-danger text=black" style="width:auto">
+	<img class="card-img-top" src="img\Peruvian Chicken.PNG" alt="Card image">
+	<div class="card-body">
+	<h4 class="card-title">Peruvian Chicken</h4>
+	<p class="card-text"><b>Nutrition facts</b><br>
+                            27g protein, and 180 calories.<br>
+						 <b>Allergies</b><br>
+                            Black Pepper</p>
+	<!--<a href="#" class="btn btn-dark">View Recipe</a>-->
+	<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal12">
+    View Recipe
+  </button>
+
+<!-- The Modal -->
+<div class="modal" id="myModal12">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Peruvian Chicken</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+      <span style="color:black;font-weight:bold">FOR THE PERUVIAN CHICKEN:</span><br>
+-3.5 lb* whole chicken spatchcock recommended**<br>
+-2 tbsp avocado oil or olive oil<br>
+-2 tbsp aji amarillo paste***<br>
+-1.5 tbsp lime juice<br>
+-3 large garlic cloves pressed or minced<br>
+-2 tsp kosher salt<br>
+-1 tsp ground cumin<br>
+-1 tsp dried oregano<br>
+-1 tsp freshly ground black pepper<br><br>
+       <span style="color:black;font-weight:bold">SIDE DISHES THAT GO WELL:</span><br>
+-cilantro lime rice<br>
+-cilantro lime cauliflower rice<br>
+-mexican rice<br>
+-corn and avocado bean salad<br>
+-mexican street corn salad with black beans<br><br>
+
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+STEP 1: 
+<br>While it's not required, I highly recommend you spatchcock the chicken. All this means is you cut the backbone out so it lays flat on the roasting pan. Spatchcock chicken cooks more evenly, more quickly, and is much easier to carve. My Spatchcock Chicken post shows you how do to this.
+<br>
+STEP 2: 
+<br>In a small bowl, mix together the avocado oil, aji amarillo paste, lime juice, garlic, salt, cumin, oregano, and black pepper.
+<br>
+STEP 3: 
+<br>Place the chicken on a sheet pan and pat the chicken dry with a paper towel. Then rub the marinade all over the chicken. Let sit at room temperature for one hour. Alternatively, you can marinate this up to 24 hours in advance in the fridge. Note: never leave meat out of the fridge for more than 2 hours.
+<br>
+STEP 4: 
+<br>15 minutes before cooking, preheat the oven to 425F.<br>
+STEP 5: 
+<br>Roast the chicken for 40-45 minutes, basting the chicken in its own juices after 30 minutes, and again at 40 minutes. When the chicken is done, the breast should register at 160F when measured with a thermometer.<br>
+STEP 6: 
+<br>Let the chicken rest for 5-10 minutes after roasting, so the juices don't run out while carving.
+<br>Enjoy!<br><br>
+        <span style="color:black;font-weight:bold">Notes:</span><br>
+-*It's okay to use a bigger chicken, but you'll need to cook longer. The breast should measure 160F.<br>
+-**My Spatchcock Chicken post shows you how to cut the backbone out of the chicken so it lays flat on the roasting pan. Spatchcock chicken cooks more evenly, more quickly, and is much easier to carve.<br>
+-***This is an essential ingredient here. I order mine on Amazon but you may be able to get it at your local grocery.<br>
+-If you do not spatchcock the chicken, the cooking time will be longer, around 60-75 minutes.<br><br>
+         <span style="color:black;font-weight:bold">Nutrition:</span><br>
+		 calories: 478kcal, carbohydrates: 1g, protein: 36g, fat: 36g, saturated fat: 9g, trans fat: 1g, cholesterol: 143mg, sodium: 1297mg, potassium: 385mg, fiber: 1g, sugar: 1g, vitamin a: 276IU, vitamin c: 5mg, calcium: 31mg, iron: 2mg
+Nutrition is estimated using a food database and is only intended to be used as a guideline for informational purposes.
+
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+	
+	
+	</div>
+</div>
+</div>
+<br>
+
+
+<div class="col-sm-4">
+
+<div class="card bg-danger text=black" style="width:auto">
+<img class="card-img-top" src="img\Sushi Roll.PNG" alt="Card image">
+<div class="card-body">
+<h4 class="card-title">Sushi Roll</h4>
+<p class="card-text"><b>Nutrition facts</b><br>
+                            152 calories, protein 3.9g<br>
+						 <b>Allergies</b><br>
+                            Crabmeat</p>
+<!--<a href="#" class="btn btn-dark">View Recipe</a>-->
+<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal13">
+    View Recipe
+  </button>
+
+<!-- The Modal -->
+<div class="modal" id="myModal13">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Sushi Roll</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+      
+-Decrease Serving<br>
+-8<br>
+-Increase Serving<br>
+-Adjust<br>
+-Original recipe yields 8 servings<br><br>
+
+-⅔ cup uncooked short-grain white rice<br>
+-3 tablespoons rice vinegar<br>
+-3 tablespoons white sugar<br>
+-1 ½ teaspoons salt<br>
+-4 sheets nori seaweed sheets<br>
+-½ cucumber, peeled, cut into small strips<br>
+-2 tablespoons pickled ginger<br>
+-1 avocado<br>
+-½ pound imitation crabmeat, flaked<br><br>
+
+
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+STEP 1: 
+<br>In a medium saucepan, bring 1 1/3 cups water to a boil. Add rice, and stir. Reduce heat, cover, and simmer for 20 minutes. In a small bowl, mix the rice vinegar, sugar ,and salt. Blend the mixture into the rice.
+<br>
+STEP 2: 
+<br>Preheat oven to 300 degrees F (150 degrees C). On a medium baking sheet, heat nori in the preheated oven 1 to 2 minutes, until warm.
+<br>
+STEP 3: 
+<br>Center one sheet nori on a bamboo sushi mat. Wet your hands. Using your hands, spread a thin layer of rice on the sheet of nori, and press into a thin layer. Arrange 1/4 of the cucumber, ginger, avocado, and imitation crabmeat in a line down the center of the rice. Lift the end of the mat, and gently roll it over the ingredients, pressing gently. Roll it forward to make a complete roll. Repeat with remaining ingredients.
+<br>
+STEP 4: 
+<br>Cut each roll into 4 to 6 slices using a wet, sharp knife.
+<br>Enjoy!<br><br>
+        <span style="color:black;font-weight:bold">Tip:</span><br>
+If you do not have a bamboo sushi mat, the easiest way to roll the sushi is to use a clean dish towel.<br><br>
+         <span style="color:black;font-weight:bold">Nutrition Facts:</span><br>
+Per Serving: 152 calories; protein 3.9g; carbohydrates 25.8g; fat 3.9g; cholesterol 5.7mg; sodium 702.5mg. Full Nutrition
+
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+
+</div>
+</div>
+</div>
+<br>
+
+<div class="col-sm-4">
+
+<div class="card bg-danger text=black" style="width:auto">
+<img class="card-img-top" src="img\Bombay Grilled Sandwich.PNG" alt="Card image">
+<div class="card-body">
+<h4 class="card-title">Bombay Grilled Sandwich</h4>
+<p class="card-text"><b>Nutrition facts</b><br>
+                        Fat	7.2g, Protein	14.7g<br>
+						 <b>Allergies</b><br>
+                            Butter</p>
+<!--<a href="#" class="btn btn-dark">View Recipe</a>-->
+<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#myModal14">
+    View Recipe
+  </button>
+
+<!-- The Modal -->
+<div class="modal" id="myModal14">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Bombay Grilled Sandwich</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+	  
+      <!-- Modal body -->
+      <div class="modal-body">
+	  <span style="color:black;font-weight:bold">Ingredients:</span><br>
+      
+-2 slices brown bread<br>
+-1 handful mint leaves<br>
+-2 pinches salt<br>
+-1 small tomato<br>
+-1 medium boiled potato<br>
+-1/4 teaspoon chaat masala<br>
+-1/4 cup water<br>
+-1 handful coriander leaves<br>
+-2 green chilli<br>
+-1 medium cucumber<br>
+-1 small onion<br>
+-2 tablespoon butter<br>
+-2 wedges cheddar cheese<br><br>
+
+
+      <span style="color:black;font-weight:bold">Bake at home set:</span><br>
+STEP 1: <br>Slice the veggies:
+<br>To prepare this yummy sandwich, peel and slice the onion and cucumber in a round shape. Wash the tomatoes and cut round slices of it as well.
+<br>
+STEP 2: <br>Make green chutney:
+<br>Next, wash and chop the coriander and mint leaves to prepare the green chutney for the sandwich. Add them along with green chillies and salt in a mixer jar and blend to a smooth paste, and try not to add too much water. The consistency of the chutney should be thick.
+<br>
+STEP 3: <br>Assemble the sandwich:
+<br>Trim the bread from all sides or you can keep it if you wish and apply butter on one bread, then apply the green chutney all over. Next, place the cucumber, tomato, onion slices over the bread slice along with the potato slice. Sprinkle salt over the veggies along with chaat masala. Lastly, add the grated cheese and cover this slice with the other slice.
+<br>
+STEP 4: <br>Grill the sandwich and serve hot:
+<br>Grill the sandwich for around 2-3 minutes. Once done, cut into pieces and serve hot. Do try this recipe, rate it and let us know in the comments how it turned out to be.
+<br>Enjoy!<br><br>
+        <span style="color:black;font-weight:bold">Tips:</span><br>
+-You can add your choice of vegetables while preparing this sandwich.<br>
+-To make it street-style, avoid using any kind of cheese in it as the street hawkers make it without cheese.<br>
+-For that perfect taste in your sandwich, prepare the masala at your home by dry roasting cumin seeds, fennel seeds, cinnamon stick, black pepper and cloves. Then, make a fine powd...
+         
+
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+</div>
+</div>
+</div>
+<br>
+
+</div>
+</div>
+<br>
+<!-- Site footer -->
+    <footer class="site-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-md-4">
+            <h6 style="color:white;">About</h6>
+            <p style="color:white;"><i>Enjoy! </i> If you want to cook the delecious food and want to order the food boxes from our company, come and join to our "In A Box" website!</p>
+          </div>
+
+
+          <div class="col-xs-6 col-md-4">
+            <h6 style="color:white;">Quick Links</h6>
+            <ul class="footer-links">
+              <li><a href="home.html">Home</a></li>
+              <li><a href="contact.html">Contact</a></li>
+              <li><a href="about.html">About</a></li>
+              <li><a href="recipe guides.html">Services and products offered</a></li>
+              <li><a href="beginners.html">Packaged offered</a></li>
+			  <li><a href="privacy&policy.html">Privacy & Policy</a></li>
+		      <li><a href="help.html">Help</a></li>
+            </ul>
+          </div>
+		  
+		  <!--<div class="col-xs-6 col-md-3">
+            <h6 style="color:white;">Social Media</h6>
+            <p style="color:white;">Facebook-In A Box<br>
+			   Gmail    -InABox@gmail.com<br>
+			   Youtube  -푸드킹덤 Food Kingdom<br>
+			   </p>
+          </div>-->
+		  
+		  <div class="col-xs-6 col-md-4">
+            <h6 style="color:white;">Address & Phone</h6>
+            <p style="color:white;">Address-Chan Aye Thar San Township, Mandalay<br><br>Phone-09408982909</p>
+          </div>
+		  
+        </div>
+        <hr>
+      </div>
+      <div class="container">
+        <div class="row">
+		<div style="color:white;">
+          <div class="col-md-8 col-sm-6 col-xs-12">
+            <p class="copyright-text;">Copyright &copy; 2021 All Rights Reserved by 
+         <a href="#">In A Box</a>.
+            </p>
+          </div>
+
+        </div>
+
+<div class="footer-social-icon">
+<div style="color:white;">
+<span>Follow us</span>
+
+<a class="footer-icon facebook" href="https://www.facebook.com/officiallyfoodkingdom/" target="_blank">
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px"
+viewBox="0 0 512 512" fill="#385C8E" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path d="M134.941,272.691h56.123v231.051c0,4.562,3.696,8.258,8.258,8.258h95.159c4.562,0,8.258-3.696,8.258-8.258V273.78h64.519c4.195,0,7.725-3.148,8.204-7.315l9.799-85.061c0.269-2.34-0.472-4.684-2.038-6.44c-1.567-1.757-3.81-2.763-6.164-2.763h-74.316V118.88c0-16.073,8.654-24.224,25.726-24.224c2.433,0,48.59,0,48.59,0c4.562,0,8.258-3.698,8.258-8.258V8.319c0-4.562-3.696-8.258-8.258-8.258h-66.965C309.622,0.038,308.573,0,307.027,0c-11.619,0-52.006,2.281-83.909,31.63c-35.348,32.524-30.434,71.465-29.26,78.217v62.352h-58.918c-4.562,0-8.258,3.696-8.258,8.258v83.975C126.683,268.993,130.379,272.691,134.941,272.691z"/>
+</g>
+</svg>
+</a>
+
+<a class="footer-icon youtube" href="https://www.youtube.com/c/%ED%91%B8%EB%93%9C%ED%82%B9%EB%8D%A4FoodKingdom2018/featured" target="_blank">
+<svg width="35px" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g>
+<path d="M31.67,9.179c0,0-0.312-2.353-1.271-3.389c-1.217-1.358-2.58-1.366-3.205-1.443C22.717,4,16.002,4,16.002,4 h-0.015c0,0-6.715,0-11.191,0.347C4.171,4.424,2.809,4.432,1.591,5.79C0.633,6.826,0.32,9.179,0.32,9.179S0,11.94,0,14.701v2.588 c0,2.763,0.32,5.523,0.32,5.523s0.312,2.352,1.271,3.386c1.218,1.358,2.815,1.317,3.527,1.459C7.677,27.919,15.995,28,15.995,28 s6.722-0.012,11.199-0.355c0.625-0.08,1.988-0.088,3.205-1.446c0.958-1.034,1.271-3.386,1.271-3.386s0.32-2.761,0.32-5.523v-2.588 C31.99,11.94,31.67,9.179,31.67,9.179z" fill="#E02F2F"/>
+<polygon fill="#FFFFFF" points="12,10 12,22 22,16"/>
+</g>
+</svg>
+</a>
+
+</div>
+</div>
+
+		  
+        </div>
+      </div>
+</footer>
+
+ </body>
+ </html>
